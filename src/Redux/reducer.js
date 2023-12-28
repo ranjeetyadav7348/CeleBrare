@@ -1,9 +1,9 @@
 import { createSlice } from '@reduxjs/toolkit';
 
 const initialState = {
-  text: 'Editable Heading',
+  text: 'Editable Heading ',
   size: '24px',
-  color: '#333',
+  color: '#FFFFFF',
   history: [],
   future: [],
 };
